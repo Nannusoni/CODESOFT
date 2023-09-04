@@ -23,7 +23,7 @@ This is a internship program at CODESOFT for 1 month the task has been provided 
 
 - 💬 Ask me about **HTML5 / CSS / MYSQL / CMD LINE /GIT & GITHUB**
 
-- 📫 How to reach me **Nandeshwar.s@outlooko.comq**
+- 📫 How to reach me **Nandeshwar.s@outlooko.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/tmsk4wv84q](https://flowcv.com/resume/tmsk4wv84q)
 
